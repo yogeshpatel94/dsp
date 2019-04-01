@@ -3,7 +3,7 @@
 # Exercise 2.4  
 #### Using the variable totalwgt_lb, investigate whether first babies are lighter or heavier than others. Compute Cohen’s d to quantify the difference between the groups. How does it compare to the difference in pregnancy length?
 
-The effect of birth order on total_wgt at -0.0887 standard deviations is similarly marginal as the effect that birth order has on prglngth at 0.0289 standard deviations.
+The effect of birth order on total_wgt at -0.0887 standard deviations is similarly marginal as the effect that birth order has on prglngth at 0.0289 standard deviations. This basically means that birth order has little to no effect on both birth weight and pregnancy length.
 
 ### Code used for outputting Cohen's Effect Size 
 
